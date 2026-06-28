@@ -34,4 +34,6 @@ Overall, this task successfully demonstrates the use of Power BI for creating an
 
 <img width="1293" height="617" alt="Image" src="https://github.com/user-attachments/assets/51571474-93d4-4b6b-aa94-7d411d740ea3" />
 
+<img width="1333" height="793" alt="Image" src="https://github.com/user-attachments/assets/b237e8b2-8003-4f12-83d9-5b5ec4aeb7ee" />
+
 
