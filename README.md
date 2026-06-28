@@ -31,3 +31,5 @@ This project helped me gain practical experience in data visualization, dashboar
 Overall, this task successfully demonstrates the use of Power BI for creating an interactive dashboard capable of transforming raw data into meaningful business insights. The project fulfills the internship objective by providing an informative, user-friendly, and interactive analytical solution.
 
 # OUTPUT
+
+<img width="1293" height="617" alt="Image" src="https://github.com/user-attachments/assets/51571474-93d4-4b6b-aa94-7d411d740ea3" />
